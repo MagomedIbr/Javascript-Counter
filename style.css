@@ -1,0 +1,8 @@
+::placeholder{
+    overflow: visible;
+}
+input,
+input::placeholder {
+    font: 20px sans-serif;
+    overflow: visible;
+}
