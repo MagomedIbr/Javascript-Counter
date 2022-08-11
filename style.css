@@ -6,3 +6,7 @@ input::placeholder {
     font: 20px sans-serif;
     overflow: visible;
 }
+
+center{
+    font: 100px sans-serif;
+}
